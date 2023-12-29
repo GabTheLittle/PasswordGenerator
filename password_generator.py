@@ -16,4 +16,4 @@ def pw_generator():
     password = "".join(password)
     return password
 
-print("Mot de passe généré :",pw_generator())
+print("Generated password :",pw_generator())
